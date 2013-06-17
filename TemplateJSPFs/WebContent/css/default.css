@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100%;
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+}
+
+#header {
+	background: red;
+	height: 120px;
+	clear: both;
+	text-align: center;
+}
+
+#footer {
+	background: black;
+	color: white;
+	clear: both;
+	text-align: center;
+	padding: 10px;
+}
+
+#menu {
+	padding: 10px;
+	background: yellow;
+	width: 120px;
+	float: left;
+	min-height: 400px;
+}
+
+#content {
+	margin-left: 160px; /* menu width + 40 */
+}

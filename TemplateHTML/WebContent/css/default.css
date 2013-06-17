@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+.header{
+	background: Red;
+	Height: 120px;
+	Width: 100%;
+	clear: both;
+}
+.footer{
+	background: Red;
+	Heigth: 120px;
+	Width: 100%;
+	clear: both;
+}
+
+.menu{
+	background: Blue;
+	Heigth: 120px;
+	float: left;
+}
+
